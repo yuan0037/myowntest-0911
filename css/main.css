@@ -1,3 +1,5 @@
-ul {
-  list-style-type: square;
+li{ 
+  list-style-type: decimal;
+  //or it can be one of: decimal-leading-zero, lower-alpha, lower-roman, lower-latin, upper-alpha, upper-roman, upper-latin,
+  //     armenian, georgian, hebrew, katakana, hiragana,
 }
