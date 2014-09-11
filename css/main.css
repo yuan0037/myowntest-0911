@@ -1,5 +1,5 @@
-li{ 
-  list-style-type: decimal;
-  //or it can be one of: decimal-leading-zero, lower-alpha, lower-roman, lower-latin, upper-alpha, upper-roman, upper-latin,
-  //     armenian, georgian, hebrew, katakana, hiragana,
+li {
+  background: url("img/arrow.png") 0 50% no-repeat;
+  list-style-type: none;
+  padding-left: 12px;
 }
